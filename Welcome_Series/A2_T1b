@@ -1,0 +1,462 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>SurveyMonkey</title>
+<style type="text/css">
+#outlook a {padding:0;}
+body{width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0; padding:0;}
+a:link {color:#2C9AB7;}      /* unvisited link */
+a:visited {color:#2C9AB7;}  /* visited link */
+a:hover {color:#2C9AB7;}  /* mouse over link */
+a:active {color:#2C9AB7;}  /* selected link */
+a {text-decoration: none;}
+a img {border:none;}
+.ExternalClass {width:100%;}
+#backgroundTable {margin:0; padding:0; width:100% !important; }
+img {outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;}
+@media screen and (max-width: 599px) {table[id="spacer-600"] {display: none !important;}}
+.gmailfix {display:none;display:none!important;}
+.full-width-bg{width:100% !important; }
+span.yshortcuts { color:#333333; background-color:none; border:none;}
+span.yshortcuts:hover,
+span.yshortcuts:active,
+span.yshortcuts:focus {color:#333333; background-color:none; border:none;}
+@media only screen and (max-width: 500px)
+{
+	*[class=hide] { display:none !important; }
+    *[class=tableVisibleFeature] {display:block !important;  margin:auto !important; width:100% !important; height:auto !important; max-height:inherit !important; overflow:visible !important;}
+	*[class=tableRebrand] { width:100% !important; }
+	*[class=tablePad] { width:100% !important; padding-left:20px !important; padding-right:20px !important; }
+	*[class=tablePadRebrand] { width:100% !important; }
+	*[class=tableHeight] { width:100% !important; height: 10px !important; }
+	*[class=table90Rebrand] { width:90% !important; }
+	*[class=table80Rebrand] { width:80% !important; }
+	*[class=tablePadLRRebrand] { width:100% !important; padding-left:20px !important; padding-right:20px !important; }
+	*[class=h1mobileRebrand] {font-size:35px !important; line-height:43px !important; }
+	*[class=h2mobileRebrand] {font-size:24px !important; line-height:31px !important; }
+}
+</style>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "EmailMessage",
+  "potentialAction": {
+    "@type": "ConfirmAction",
+    "name": "Get eGuide",
+    "handler": {
+      "@type": "HttpActionHandler",
+      "url": "$clickthrough(a1t2_cta1_en)$"
+    }
+  },
+  "description": "Learn More"
+}
+</script>
+</head>
+<body bgcolor="#ffffff" style="-webkit-font-smoothing: antialiased; width:100% !important; background:#ffffff; -webkit-text-size-adjust:none;">
+<table class="tableRebrand" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+	<tr>
+		<td class="tableRebrand" style="border-collapse: collapse;" width="100%" bgcolor="#ffffff" valign="top" align="center">
+		<table class="hide" width="600" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td style="border-collapse: collapse;" width="500" height="34" bgcolor="#ffffff" align="left" valign="middle"><font style="text-decoration:none; color:#a0a0a0; font-size:11px; font-family:helvetica, arial, sans-serif;">Get answers in 3 easy steps</font></td>
+				<td style="border-collapse: collapse;" width="100" height="34" bgcolor="#ffffff" align="right" valign="middle"><a href="$Clickthrough(a1t2_header_sign_in)$" target="_blank" style="text-decoration:none; color:#2C9AB7; font-weight:600; font-size:10px; font-family:helvetica, arial, sans-serif;">See details</a></td>
+			</tr>
+		</table>
+		<table class="tableRebrand" width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="30"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="30" alt=""/></td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="40" align="center"><a href="$Clickthrough(header_logo_en)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/green-logo-head.png" width="58" alt="" border="0" /></a></td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="60"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="60" alt=""/></td>
+			</tr>
+		</table>
+		<table class="tableRebrand" width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+			<tr>
+				<td class="tablePad" style="border-collapse: collapse; padding-left: 60px; padding-right: 60px; line-height:48px;" width="600" height="2"  align="center" valign="middle">
+				<a href="$clickthrough(a1t2_headline1_en)$" target="_blank" style="text-decoration:none; color:#333E48; font-size:40px; font-weight:bold; font-family:helvetica, arial, sans-serif;">
+				<span class="h1mobileRebrand">Need survey help? Commenting lets your team join in</span>
+				</a></td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="30"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="30" alt=""/></td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="2"  align="center" valign="middle">
+				<table class="table90Rebrand" width="173" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;" width="173" height="2" bgcolor="#f9be00" align="center" valign="top">
+						<a target="_blank" href="$clickthrough(a1t2_cta1_en)$">
+						<table class="table90Rebrand" width="163" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="tablePadRebrand" align="center" width="163" height="41" style="
+								color: #333E48;
+								font-family:helvetica, arial, sans-serif;
+								font-size: 16px;
+								font-weight:bold;
+								text-align:center;
+								outline: none;
+								text-decoration: none;
+								background-color: #f9be00;" bgcolor="#f9be00">
+								<a target="_blank" href="$clickthrough(a1t2_cta1_en)$" style="
+								color: #333E48;
+								font-family:helvetica, arial, sans-serif;
+								font-weight:bold;
+								font-size: 16px;
+								outline: none;
+								cursor: pointer;
+								white-space: nowrap;
+								text-decoration: none;
+								display: inline-block;
+								background-color: #f9be00;">Get feedback</a>
+								</td>
+							</tr>
+						</table>
+						</a>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="50"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="50" alt=""/></td>
+			</tr>
+		</table>
+
+
+		<table class="tableRebrand" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+			<tr>
+				<td class="hide" style="border-collapse: collapse; background-image: url('images/white-background4.png'); background-repeat: repeat-x;" background="images/white-background4.png" width="50%" bgcolor="#ffffff">
+				</td>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="782" height="2" align="center" valign="top">
+				<table class="tableRebrand" width="782" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+					<tr>
+						<td class="hide" width="91" style="border-collapse: collapse;" bgcolor="#ffffff" align="right"><img class="hide" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/left.png" width="24" alt=""/></td>
+						<td class="tableRebrand" width="602" style="border-collapse: collapse; padding-left:20px;" height="50" bgcolor="#2dccd2" align="left"><font style="text-decoration:none; color:#ffffff; font-size:14px; font-weight:bold; font-family:helvetica, arial, sans-serif;">Curiosity Survey</font></td>
+						<td class="hide" width="91" style="border-collapse: collapse;" bgcolor="#ffffff" align="left"><img class="hide" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/right.png" width="26" alt=""/></td>
+					</tr>
+					<tr>
+						<td class="hide" width="91" style="border-collapse: collapse;" bgcolor="#ffffff" align="right"><img class="hide" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/long-left4.png" alt=""/></td>
+						<td class="tableRebrand" width="602" style="border-collapse: collapse;" bgcolor="#671f75" align="left"><a href="#" target="_blank"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/feature-4.png" width="602" border="0" alt=""/></a></td>
+						<td class="hide" width="91" style="border-collapse: collapse;" bgcolor="#ffffff" align="left"><img class="hide" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/long-right4.png" alt=""/></td>
+					</tr>
+				</table>
+				</td>
+				<td class="hide" style="border-collapse: collapse; background-image: url('images/white-background4.png'); background-repeat: repeat-x;" background="images/white-background4.png" width="50%" bgcolor="#ffffff">
+				</td>
+			</tr>
+		</table>
+		<table class="tableRebrand" width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#f5f5f5">
+			<tr>
+				<td class="hide" style="border-collapse: collapse;" width="50%" bgcolor="#f5f5f5">&nbsp;</td>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="650" height="2" align="center" valign="top">
+				<table class="tableRebrand" width="650" border="0" cellpadding="0" cellspacing="0" bgcolor="#f5f5f5">
+					<tr>
+						<td  class="tableRebrand" style="border-collapse: collapse;" width="600" height="46" bgcolor="#f5f5f5"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="46" alt=""/></td>
+					</tr>
+					<tr>
+						<td class="tablePadLRRebrand" style="border-collapse: collapse; padding-left:70px; line-height:27px; padding-right:70px;" width="600" height="2" bgcolor="#f5f5f5" align="center" valign="top">
+						<font style="text-decoration:none; color:#333E48; font-size:32px; line-height:41px; font-weight:bold; font-family:helvetica, arial, sans-serif;">
+						Get feedback on your survey in 3 simple steps
+						</font>
+						</td>
+					</tr>
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="30" bgcolor="#f5f5f5"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="30" alt=""/></td>
+					</tr>
+				</table>
+				<table class="tableRebrand" width="650" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td class="block" style="border-collapse: collapse;" width="650" height="2" bgcolor="#f5f5f5" align="center" valign="top">
+						<table class="table90Rebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="tableRebrand" style="border-collapse: collapse;" width="500" height="100" bgcolor="#f5f5f5" align="left" valign="top">
+								<table class="tableRebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="height138" style="border-collapse: collapse;" align="center" height="100" valign="middle" width="110" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="106" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse;" width="106" height="54" bgcolor="#f5f5f5" align="center" valign="middle">
+												<img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/icon-1d.png" width="106" alt=""/></td>
+											</tr>
+										</table>
+										</td>
+										<td style="border-collapse: collapse;" align="center" height="100" valign="middle" width="490" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="340" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse; line-height:22px;" width="340" height="2" bgcolor="#f5f5f5" align="left" valign="top">
+												<font style="text-decoration:none; color:#656565; font-size:15px; font-family:helvetica, arial, sans-serif;">In the <b>Design Survey</b> tab, click <b>Preview &amp; Test</b>. Click <b>Invite</b> to choose who can give feedback.</b></font></td>
+											</tr>
+										</table>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="650" height="2" bgcolor="#f5f5f5" align="center"><img class="table80Rebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/dotted-line4.png" width="500" height="50" alt=""/></td>
+					</tr>
+					<tr>
+						<td class="block" style="border-collapse: collapse;" width="650" height="2" bgcolor="#f5f5f5" align="center" valign="top">
+						<table class="table90Rebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="tableRebrand" style="border-collapse: collapse;" width="500" height="100" bgcolor="#f5f5f5" align="left" valign="top">
+								<table class="tableRebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="height138" style="border-collapse: collapse;" align="center" height="100" valign="middle" width="110" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="106" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse;" width="106" height="54" bgcolor="#f5f5f5" align="center" valign="middle">
+												<img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/icon-2d.png" width="106" alt=""/></td>
+											</tr>
+										</table>
+										</td>
+										<td style="border-collapse: collapse;" align="center" height="100" valign="middle" width="490" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="340" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse; line-height:22px;" width="340" height="2" bgcolor="#f5f5f5" align="left" valign="top">
+												<font style="text-decoration:none; color:#656565; font-size:15px; font-family:helvetica, arial, sans-serif;">Let your team&mdash;or anyone you want&mdash;preview your survey and leave comments where they want.</font></td>
+											</tr>
+										</table>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="650" height="2" bgcolor="#f5f5f5" align="center"><img class="table80Rebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/dotted-line4.png" width="500" height="50" alt=""/></td>
+					</tr>
+					<tr>
+						<td class="block" style="border-collapse: collapse;" width="650" height="2" bgcolor="#f5f5f5" align="center" valign="top">
+						<table class="table90Rebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="tableRebrand" style="border-collapse: collapse;" width="500" height="100" bgcolor="#f5f5f5" align="left" valign="top">
+								<table class="tableRebrand" width="500" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="height138" style="border-collapse: collapse;" align="center" height="100" valign="middle" width="110" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="106" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse;" width="106" height="54" bgcolor="#f5f5f5" align="center" valign="middle">
+												<img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/icon-3d.png" width="106" alt=""/></td>
+											</tr>
+										</table>
+										</td>
+										<td style="border-collapse: collapse;" align="center" height="100" valign="middle" width="490" bgcolor="#f5f5f5">
+										<table class="table90Rebrand" width="340" border="0" cellpadding="0" cellspacing="0">
+											<tr>
+												<td class="tableRebrand" style="border-collapse: collapse; line-height:22px;" width="340" height="2" bgcolor="#f5f5f5" align="left" valign="top">
+												<font style="text-decoration:none; color:#656565; font-size:15px; font-family:helvetica, arial, sans-serif;">Make improvements, resolve comments, and send your survey with confidence!</font></td>
+											</tr>
+										</table>
+										</td>
+									</tr>
+								</table>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+				</table>
+				<table class="tableRebrand" width="650" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="50" bgcolor="#f5f5f5"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="50" alt=""/></td>
+					</tr>
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="2" bgcolor="#f5f5f5" align="center" valign="middle">
+						<table class="table90Rebrand" width="158" border="0" cellpadding="0" cellspacing="0">
+							<tr>
+								<td class="tableRebrand" style="border-collapse: collapse; -webkit-border-radius: 2px; -moz-border-radius: 2px; border-radius: 2px;" width="158" height="2" bgcolor="#f9be00" align="center" valign="top">
+								<a target="_blank" href="$clickthrough(a1t2_cta1_en)$">
+								<table class="table90Rebrand" width="148" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="tablePadRebrand" align="center" width="148" height="41" style="
+										color: #333E48;
+										font-family:helvetica, arial, sans-serif;
+										font-size: 16px;
+										font-weight:bold;
+										text-align:center;
+										outline: none;
+										text-decoration: none;
+										background-color: #f9be00;" bgcolor="#f9be00">
+										<a target="_blank" href="$clickthrough(a1t2_cta2_en)$" style="
+										color: #333E48;
+										font-family:helvetica, arial, sans-serif;
+										font-weight:bold;
+										font-size: 16px;
+										outline: none;
+										cursor: pointer;
+										white-space: nowrap;
+										text-decoration: none;
+										display: inline-block;
+										background-color: #f9be00;">Get started</a>
+										</td>
+									</tr>
+								</table>
+								</a>
+								</td>
+							</tr>
+						</table>
+						</td>
+					</tr>
+					<tr>
+						<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="50" bgcolor="#f5f5f5"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="50" alt=""/></td>
+					</tr>
+				</table>
+				</td>
+				<td class="hide" style="border-collapse: collapse;" width="50%" bgcolor="#f5f5f5">&nbsp;</td>
+			</tr>
+		</table>
+		<table class="table90Rebrand" width="600" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff">
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="50" bgcolor="#ffffff"><img class="tableRebrand" style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/spacer.gif" width="600" height="50" alt=""/></td>
+			</tr>
+			<tr>
+				<td class="tableRebrand" style="border-collapse: collapse;" width="600" height="2" bgcolor="#ffffff" valign="top" align="center">
+				<font style="text-decoration:none; color:#979797; font-size:16px; font-weight:bold; font-family:helvetica, arial, sans-serif;">
+				Everything you need to get started
+				</font>
+
+				<br /><br />
+
+				<span class="hide">
+				<font style="text-decoration:none; color:#7A7A7A; font-size:15px; font-family:helvetica, arial, sans-serif;">
+				<a href="$clickthrough(a1t2_bottomnav1_en)$" target="_blank" style="text-decoration:none; color:#2C9AB7; font-size:15px; font-family:helvetica, arial, sans-serif;">Solutions</a> | <a href="$clickthrough(a1t2_bottomnav2_en)$" target="_blank" style="text-decoration:none; color:#2C9AB7; font-size:15px; font-family:helvetica, arial, sans-serif;">Features</a> | <a href="$Clickthrough(a1t2_bottomnav3_en)$" target="_blank" style="text-decoration:none; color:#2C9AB7; font-size:15px; font-family:helvetica, arial, sans-serif;">Help</a>
+				</font>
+				</span>
+
+				<!--[if !mso 9]><!-->
+				<div style="display:none; width:0px; max-height:0px; overflow:hidden; mso-hide:all;" class="tableVisibleFeature">
+				<table width="100%" border="0" cellpadding="0" cellspacing="0">
+					<tbody>
+						<tr>
+							<td width="100%" style="border-collapse: collapse;" height="2" bgcolor="#ffffff" align="center">
+							<a target="_blank" href="#" style="
+							text-decoration:none;
+							text-align:center;
+							font-family:Arial, Helvetica, sans-serif;
+							font-size:15px;
+							color:#007FAA;
+							font-weight: 400;
+							padding-top:15px;
+							padding-bottom:15px;
+							outline: none;
+							cursor: pointer;
+							white-space: nowrap;
+							display: block;
+							border-bottom:solid 1px #D0D2D3;
+							width:100%;
+							background-color: #ffffff;">Solutions</a>
+							<a target="_blank" href="#" style="
+							text-decoration:none;
+							text-align:center;
+							font-family:Arial, Helvetica, sans-serif;
+							font-size:15px;
+							color:#007FAA;
+							font-weight: 400;
+							padding-top:15px;
+							padding-bottom:15px;
+							outline: none;
+							cursor: pointer;
+							white-space: nowrap;
+							display: block;
+							border-bottom:solid 1px #D0D2D3;
+							width:100%;
+							background-color: #ffffff;">Features</a>
+							<a target="_blank" href="#" style="
+							text-decoration:none;
+							text-align:center;
+							font-family:Arial, Helvetica, sans-serif;
+							font-size:15px;
+							color:#007FAA;
+							font-weight: 400;
+							padding-top:15px;
+							padding-bottom:15px;
+							outline: none;
+							cursor: pointer;
+							white-space: nowrap;
+							display: block;
+							border-bottom:solid 1px #D0D2D3;
+							width:100%;
+							background-color: #ffffff;">Help</a>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+				</div>
+				<!--<![endif]-->
+
+				<br /><br /><br />
+
+				<table width="160" border="0" cellpadding="0" cellspacing="0">
+					<tr>
+						<td style="border-collapse: collapse; padding-right:10px;" width="40" height="2" bgcolor="#ffffff" align="center"><a href="$clickthrough(twitter_footer_en)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/twitter.png" width="40" alt="" border="0"/></a></td>
+						<td style="border-collapse: collapse; padding-right:10px;" width="40" height="2" bgcolor="#ffffff" align="center"><a href="$clickthrough(facebook_footer_en)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/facebook.png" width="40" alt="" border="0"/></a></td>
+						<td style="border-collapse: collapse; padding-right:10px;" width="40" height="2" bgcolor="#ffffff" align="center"><a href="$clickthrough(linkedin_footer_en)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/linkedin.png" width="40" alt="" border="0"/></a></td>
+						<td style="border-collapse: collapse;" width="40" height="2" bgcolor="#ffffff" align="center"><a href="$clickthrough(blog_footer_en)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/blog.png" width="40" alt="" border="0"/></a></td>
+					</tr>
+				</table>
+
+				<br />
+
+				<table width="200" border="0" cellpadding="0" cellspacing="10">
+					<tr>
+						<td style="border-collapse: collapse;" width="100" height="2" bgcolor="#ffffff"><a href="$clickthrough(ios_branch)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/applebox.png" height="28" alt="" border="0"/></a></td>
+						<td style="border-collapse: collapse;" width="100" height="2" bgcolor="#ffffff"><a href="$clickthrough(android_branch)$" target="_blank"><img style="outline:none; text-decoration:none; -ms-interpolation-mode: bicubic; display:block;" src="images/googlebox.png" height="28" alt="" border="0"/></a></td>
+					</tr>
+				</table>
+
+				<br /><br />
+
+				<font style="text-decoration:none; color:#A7A7A7; font-size:13px; font-family:helvetica, arial, sans-serif;">
+				This e-mail was sent to $EMAIL_ADDRESS_$. You received this email because you signed up for a SurveyMonkey account. Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. <br />
+				<br />
+				<a href="$UnsubscribeLink$" target="_blank" style="text-decoration:none; font-weight:bold; color:#A7A7A7; font-size:13px; font-family:helvetica, arial, sans-serif;">Unsubscribe</a> | <a href="$Clickthrough(footer_privacy)$" target="_blank" style="text-decoration:none; color:#A7A7A7; font-size:13px; font-family:helvetica, arial, sans-serif;">Privacy</a> | <a href="$Clickthrough(footer_help)$" target="_blank" style="text-decoration:none; color:#A7A7A7; font-size:13px; font-family:helvetica, arial, sans-serif;">Help</a> | <a href="$Clickthrough(mirrorPage,concat(mirrorPageURL=,formlink(campaignname(),EMAIL_ADDRESS_,FIRST_NAME,LAST_NAME,ENCRYPTED_SURVEY_ID,ENGAGEMENT_STATE_REACHED,show=n,language_iso2,username,RIID_)))$" target="_blank" style="text-decoration:none; color:#A7A7A7; font-size:13px; font-family:helvetica, arial, sans-serif;">View in browser</a>
+
+				<br /><br />
+
+				&copy; 2017 SurveyMonkey, 3050 South Delaware Street, San Mateo, CA 94403
+				</font>
+				<br/><br/></td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+</table>
+<img src="https://pixel.monitor1.returnpath.net/pixel.gif?r=cb7a24d6edd9144c009a8c97530c8b8d2d1c048a&campaign=SM_CRM_MKTG_PA&c=$campaignid()$&s=$CUSTOMER_ID_$&country=$COUNTRY_ISO2$&language=$LANGUAGE_ISO2$&engagement=$ENGAGEMENT_STATE_REACHED$&source=$UT_SOURCE$" width="1" height="1" />
+		<!-- prevent gmail app from auto-resizing email -->
+
+  <table width="600" border="0" cellpadding="0" cellspacing="0" class="hide" id="spacer-600" style="width:600px;max-width:600px;min-width:600px; bgcolor:#ffffff;">
+    <tbody>
+      <tr>
+        <td bgcolor="#f5f5f5"><img src="images/spacer.gif" border="0" width="600" height="1" hspace="0" vspace="0" style="width:600px;min-width:600px"></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+  <div class="gmailfix" style="white-space:nowrap; font:15px courier; line-height:0; bgcolor:#ffffff;">
+
+    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</div><br>
+  <table cellpadding="0" cellspacing="0" style="border: 0px; padding: 0px; margin: 0px; position: absolute; display: none; float: left; bgcolor:#ffffff;">
+    <tbody>
+      <tr>
+        <td height="1" style="font-size: 1px; line-height: 1px; padding: 0px;">
+          <br>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+	</body>
+</html>
