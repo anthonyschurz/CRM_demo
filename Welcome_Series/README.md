@@ -1,2 +1,2 @@
 # Welcome_Series
-This is the welcome series for SurveyMonkey.
+Welcome series for SurveyMonkey
